@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(to right, #984D38, #181E41);
+}
+
+.section {
+  width: 100%;
+  height: 800px;
+  margin: 0 auto;
+}
+.section .img {
+  width: 1042px;
+  height: 578.25px;
+  border-radius: 11.73px;
+  background-image: url(f213d567f1f6dc6b7c0072293a4ed614.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 136.82px;
+  margin-left: 199px;
+}
+.section .img .img1 {
+  margin-top: 233px;
+  margin-left: 465px;
+}
+.section .img .img2 {
+  margin-top: 537px;
+  margin-left: 39.78px;
+}/*# sourceMappingURL=style.css.map */
